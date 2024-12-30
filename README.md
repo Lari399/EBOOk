@@ -23,8 +23,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Criei um título de ebook sobre crochê nicho de iniciante de crochê ,Título curto chamativo e que chamee atenção dos jovens    
-com referencias da disney 5 títulos |
+|  título  | Criei um título de ebook sobre crochê nicho de iniciante de crochê ,Título curto chamativo e que chamee atenção dos jovens com referencias da disney 5 títulos |
 | conteúdo | Crie um ebook sobre os primeiro passos para aprende crochê |
 
 
